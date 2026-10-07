@@ -1,4 +1,4 @@
-A simple desktop klondike solitaire game written in C#. You need Visual Studio (Or a similar app) to run the code.
+A simple desktop solitaire game written in C#. You need Visual Studio (Or a similar app) to run the code.
 
 Note: I don't own the game Idea
 
